@@ -1,6 +1,3 @@
-# Project-
-# Blinkit-Dashboard
-
 # Blinkit Analysis Power BI Project
 
 ## 📊 Project Overview
